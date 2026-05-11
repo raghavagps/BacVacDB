@@ -4,6 +4,8 @@ Welcome to the official repository for BacVacDB, a comprehensive and manually cu
 
 Database URL: https://webs.iiitd.edu.in/raghava/bacvacdb/
 
+ZENODO : https://doi.org/10.5281/zenodo.20068044
+
 ## Citation
 
 Gupta, S., Sharma, N., Naorem, L. D., Jain, S., & Raghava, G. P. S. (2022).
